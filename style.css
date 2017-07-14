@@ -7,4 +7,5 @@ body {
 div#main {
     width: 90%;
     background-color: azure;
+    margin: 0 auto 0 auto;
 }
