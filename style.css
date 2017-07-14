@@ -11,3 +11,11 @@ div#main {
     background-color: azure;
     margin: 0 auto 0 auto;
 }
+
+div#content {
+    width: 68%;
+}
+
+div#sidebar {
+    width: 29%;
+}
