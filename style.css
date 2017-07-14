@@ -1,7 +1,9 @@
 body {
     width: 100%;
-    background-color:aquamarine;
-    font-size: 100%;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: white;
+    color: black;
+    font-size: 1em;
 }
 
 div#main {
