@@ -9,6 +9,7 @@ body {
 div#header {
     width: 100%;
     position: absolute; /*Override whatewer browser thinks what we mean by width of 100%*/
+    top: 0;
     left: 0;
     background-color: burlywood;
 }
