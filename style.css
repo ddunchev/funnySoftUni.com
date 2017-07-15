@@ -6,6 +6,11 @@ body {
     font-size: 1em;
 }
 
+div#header {
+    width: 100%;
+    background-color: burlywood;
+}
+
 div#main {
     width: 90%;
     background-color: azure;
