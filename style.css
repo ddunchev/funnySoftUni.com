@@ -11,13 +11,14 @@ div#header {
     position: absolute; /*Override whatewer browser thinks what we mean by width of 100%*/
     top: 0;
     left: 0;
-    background-color: burlywood;
+    background-color: #990000;
 }
 
 div#header h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
     color: white;
+    font-size: 2em;
 }
 
 div#main {
