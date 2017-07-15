@@ -53,12 +53,17 @@ div#navbar {
     display: inline-block;
     clear: both;
     background-color: #234465;
-    margin-top: 100px;
+    margin-top: 7%;
+    padding: 0 .5em 0 .5em;
 }
 
 div#navbar ul {
     list-style-type: none;
     padding-left: 0;
+}
+
+div#navbar ul li {
+    line-height: 2em;
 }
 
 div#navbar ul li a {

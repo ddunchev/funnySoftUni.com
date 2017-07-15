@@ -1,0 +1,22 @@
+﻿body.additional {
+    background-image: url("https://vikasbandaru.files.wordpress.com/2016/08/steve-jobs-coding-quote.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+}
+
+div.link {
+    display: flex;
+    justify-content: center;
+}
+
+div.link a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    border: 1px dotted white;
+    text-align: center;
+}
