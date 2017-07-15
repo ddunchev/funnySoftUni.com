@@ -14,8 +14,8 @@ div#header {
     background-color: #990000;
 }
 
-img#logo {
-    display: inline;
+div#header img {
+    float: left;
 }
 
 div#header h2 {
