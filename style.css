@@ -19,6 +19,8 @@ div#header h2 {
     font-weight: bolder;
     color: white;
     font-size: 2em;
+    margin-left: 2%;
+    padding: 0;
 }
 
 div#main {
