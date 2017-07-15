@@ -31,8 +31,9 @@ div#header h2 {
 
 div#main {
     width: 90%;
-    background-color: azure;
-    margin: 0 auto 0 auto;
+    background-color: white;
+    position: relative;
+    margin-top: 15%;
 }
 
 div#content {
