@@ -32,7 +32,7 @@ div#header h2 {
 div#main {
     width: 90%;
     background-color: white;
-    position: relative;
+    position: fixed;
     margin-top: 15%;
 }
 
