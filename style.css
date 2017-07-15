@@ -21,3 +21,7 @@ div#sidebar {
     width: 29%;
     float: right;
 }
+
+.no-wrap {
+    clear: both;
+}
