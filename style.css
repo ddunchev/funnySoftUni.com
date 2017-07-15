@@ -73,3 +73,7 @@ div#navbar ul li a {
     text-decoration: none;
     color: white;
 }
+
+div#navbar a:hover {
+    color: #990000;
+}
