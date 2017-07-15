@@ -50,11 +50,11 @@ div#sidebar {
 }
 
 div#navbar {
-    display: inline-block;
-    clear: both;
+    width: 100%;
     background-color: #234465;
-    margin-top: 7%;
-    padding: 0 .5em 0 .5em;
+    position: fixed;
+    top: 15%;
+    left: 0;
 }
 
 div#navbar ul {
@@ -63,7 +63,12 @@ div#navbar ul {
 }
 
 div#navbar ul li {
-    line-height: 2em;
+    margin: 0 0 .25em 0;
+    width: 15%;
+    background-color: #234465;
+    padding: .5em .5em .5em .5em;
+    display: inline;
+    float: left;
 }
 
 div#navbar ul li a {
