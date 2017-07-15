@@ -25,7 +25,7 @@ div#header h2 {
     font-size: 2em;
     margin-left: 2%;
     padding: 0;
-    display: inline;
+    display: inline-flex;
 }
 
 div#main {
