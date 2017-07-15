@@ -14,8 +14,10 @@ div#main {
 
 div#content {
     width: 68%;
+    float: left;
 }
 
 div#sidebar {
     width: 29%;
+    float: right;
 }
