@@ -8,7 +8,7 @@ body {
 
 div#header {
     width: 100%;
-    position: absolute; /*Override whatewer browser thinks what we mean by width of 100%*/
+    position: fixed;
     top: 0;
     left: 0;
     background-color: #990000;
@@ -16,6 +16,7 @@ div#header {
 
 div#header img {
     float: left;
+    margin: .5em;
 }
 
 div#header h2 {
